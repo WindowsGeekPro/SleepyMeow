@@ -8,16 +8,16 @@ do
 	COUNT=$(( COUNT + 1 ))
 
 	case $COUNT in 
-		"1") printf "%s\b\b\b\b\b\b\b\b\b\b\b\b""8===jjj=D   "
+		"1") printf "%s\b\b\b\b\b\b\b\b\b\b\b\b""8===ooo=D   "
 			sleep $sleepy
 			;;
-		"2") printf "%s\b\b\b\b\b\b\b\b\b\b\b\b""8==jjj==D   "
+		"2") printf "%s\b\b\b\b\b\b\b\b\b\b\b\b""8==ooo==D   "
 			sleep $sleepy
 			;;
-		"3") printf "%s\b\b\b\b\b\b\b\b\b\b\b\b""8===jjj=D   "
+		"3") printf "%s\b\b\b\b\b\b\b\b\b\b\b\b""8===ooo=D   "
 			sleep $sleepy
 			;;
-		"4") printf "%s\b\b\b\b\b\b\b\b\b\b\b\b""8==jjj==D   "
+		"4") printf "%s\b\b\b\b\b\b\b\b\b\b\b\b""8==ooo==D   "
 			sleep $sleepy
 			;;
 		"5") printf "%s\b\b\b\b\b\b\b\b\b\b\b\b""8=======D~~~"
